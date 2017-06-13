@@ -66,6 +66,10 @@ When you are done, place a _blue postIt_ on the lid of your laptop. Use a _red p
 ## Module 3: Dimension Reduction
 [Lecture](https://bioinformatics.ca/eda-2017-mod3)  
 
+## Integrated Assignment
+
+[Supporting Files for Assignment](https://github.com/bioinformaticsdotca/EDA_2017/raw/master/CBW%20EDA%20Integrated%20Assg%20June2017-v2.tar.gz)
+
 # Day 2 <a id="day2"></a>
 
 ## Module 4: Clustering
