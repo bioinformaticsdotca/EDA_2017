@@ -74,7 +74,8 @@ When you are done, place a _blue postIt_ on the lid of your laptop. Use a _red p
 
 The most current version of our *RStudio projects* for today live at 
 
-* <https://github.com/hyginn/R_EDA-Clustering>
+* <https://github.com/hyginn/R_EDA-Clustering>  
+* <https://github.com/hyginn/R_EDA-HypothesisTesting>  
 
 ## Module 4: Clustering
 [Lecture](https://bioinformatics.ca/eda-2017-mod4)  
