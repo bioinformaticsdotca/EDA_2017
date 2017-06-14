@@ -103,3 +103,9 @@ You will be able to access them there for the foreseeable future.
 
 When you are done, place a _blue postIt_ on the lid of your laptop. Use a _red postIt_ if you have issues.
 
+***
+
+Thank you for attending the Exploratory Analysis of Biological Data using R workshop! Help us make this workshop better by filling out [our survey](https://goo.gl/forms/l94qnJll3ThS7EV02).
+
+***
+
