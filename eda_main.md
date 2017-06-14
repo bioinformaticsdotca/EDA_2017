@@ -83,6 +83,8 @@ The most current version of our *RStudio projects* for today live at
 ## Module 5: Hypothesis Testing
 [Lecture](https://bioinformatics.ca/eda-2017-mod5)  
 
+[Annotation file](https://github.com/bioinformaticsdotca/EDA_2017/raw/master/platf%20getGEO(gpl%2C%20AnnotGPL%3DTRUE).rdata)  
+
 The most current version of our *RStudio projects* for today live at 
 
 * <https://github.com/hyginn/R_EDA-Introduction>
