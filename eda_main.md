@@ -72,6 +72,10 @@ When you are done, place a _blue postIt_ on the lid of your laptop. Use a _red p
 
 # Day 2 <a id="day2"></a>
 
+The most current version of our *RStudio projects* for today live at 
+
+* <https://github.com/hyginn/R_EDA-Clustering>
+
 ## Module 4: Clustering
 [Lecture](https://bioinformatics.ca/eda-2017-mod4)  
 
