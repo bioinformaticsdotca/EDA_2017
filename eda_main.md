@@ -21,7 +21,7 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 
 Coming soon!
  
-<img src="" alt="Class Photo" width="750" />
+<img src="https://github.com/bioinformaticsdotca/EDA_2017/blob/master/CBW-June-13.jpeg?raw=true" alt="Class Photo" width="750" />
 
 
 ***
