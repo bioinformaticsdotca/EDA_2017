@@ -18,8 +18,6 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 ***
 
 # Class Photo
-
-Coming soon!
  
 <img src="https://github.com/bioinformaticsdotca/EDA_2017/blob/master/CBW-June-13.jpeg?raw=true" alt="Class Photo" width="750" />
 
