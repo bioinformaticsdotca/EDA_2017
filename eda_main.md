@@ -50,19 +50,17 @@ When you are done, place a _blue postIt_ on the lid of your laptop. Use a _red p
 
 *<font color="#827e9c">Ann Meyer</font>*
 
-[Lecture](https://bioinformatics.ca/eda-2017-mod0)  
-
 ## Module 1: Exploratory Data Analysis
 
 *<font color="#827e9c">Boris Steipe</font>* 
 
-[Lecture](https://bioinformatics.ca/eda-2017-mod1)  
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1Nc3yfA4N_Dt1iJKQ-xeSoByaxZmbxMJs/view?usp=sharing)  
 
 ## Module 2: Regression
-[Lecture](https://bioinformatics.ca/eda-2017-mod2)  
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1EFqsv_pVzYpk9-R-gQvjGASm_rnC8Bva/view?usp=sharing)  
 
 ## Module 3: Dimension Reduction
-[Lecture](https://bioinformatics.ca/eda-2017-mod3)  
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1z4y3oBb0CKAA0HsUa6-DAHdtnPOBYSxx/view?usp=sharing)  
 
 ## Integrated Assignment
 
@@ -76,10 +74,10 @@ The most current version of our *RStudio projects* for today live at
 * <https://github.com/hyginn/R_EDA-HypothesisTesting>  
 
 ## Module 4: Clustering
-[Lecture](https://bioinformatics.ca/eda-2017-mod4)  
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/13u2oppUshhfmFT5ni7A7dfGeWmIr8Vex/view?usp=sharing)  
 
 ## Module 5: Hypothesis Testing
-[Lecture](https://bioinformatics.ca/eda-2017-mod5)  
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1FeXckHXIjEDnLfESN1ZPlMdoErT2Z39g/view?usp=sharing)  
 
 [Annotation file](https://github.com/bioinformaticsdotca/EDA_2017/raw/master/platf%20getGEO(gpl%2C%20AnnotGPL%3DTRUE).rdata)  
 
