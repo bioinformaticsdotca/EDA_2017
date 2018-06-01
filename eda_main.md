@@ -6,6 +6,7 @@ header1: Workshop Pages for Students
 header2: Exploratory Analysis of Biological Data using R 2017
 image: /site_images/CBW_introtoR-icon.jpg
 keywords: Use R and its analysis tools, write R functions and analysis scripts, plot and visualize data
+description: Couse covers essential tools and stratgies that are available for EDA through the free statistical workbench R.
 instructors: Boris Steipe
 length: 2 days
 ---
